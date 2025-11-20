@@ -1,2 +1,2 @@
-Projeto Alice In Chains
-Site que conta um pouco da discografia da banda norte-americana Alice In Chains
+# Projeto Alice
+**Site que conta um pouco sobre a discografia da banda norte-americana Alice In Chains**
