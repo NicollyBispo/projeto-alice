@@ -15,7 +15,7 @@ header{
     justify-content: center;
     background-color:#d4a07e;
     padding: 15px;
-    margin-bottom: 7px; 
+   
 }
 
  nav a{
@@ -29,7 +29,7 @@ header{
 
 main{
     background-color: #cfc6b2;
-    width: 700px;
+   width: 780px;
     display: block;
     margin: auto;
 }
