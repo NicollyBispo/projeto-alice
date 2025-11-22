@@ -27,6 +27,10 @@ header{
     font-size: 1.8em;
 }
 
+nav a:hover{
+    color: #625656;
+}
+
 main{
     background-color: #cfc6b2;
     display: block;
@@ -42,6 +46,10 @@ a.origem{
     justify-content: flex-end;
     text-decoration: none;
     color: #6f6161;  
+}
+
+a.origem:hover{
+    color: #21211f;
 }
 
 main section{
