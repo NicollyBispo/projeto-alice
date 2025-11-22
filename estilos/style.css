@@ -16,6 +16,7 @@ header{
     justify-content: center;
     padding: 15px;
     background-image: linear-gradient(to bottom, #cfc6b2, #756d6d);
+    border-radius: 6px;
    
 }
 
@@ -37,6 +38,8 @@ main{
     display: block;
     margin: auto;
     max-width: 800px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.282);
+    border-radius: 8px;
 }
 
 main > article{
