@@ -5,7 +5,8 @@
         font-size: 1.3em;
     }
 
-    main{
-        padding-left: 5px;
+    main {
+        padding-left: 6px;
+        padding-right: 6px;
     }
 }   
