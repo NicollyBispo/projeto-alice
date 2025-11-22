@@ -3,6 +3,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
 }
 
 body{
@@ -35,6 +36,7 @@ main{
     background-color: #cfc6b2;
     display: block;
     margin: auto;
+    max-width: 800px;
 }
 
 main > article{
