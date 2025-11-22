@@ -37,7 +37,7 @@ main{
     background-color: #cfc6b2;
     display: block;
     margin: auto;
-    max-width: 800px;
+    max-width: 880px;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.282);
     border-radius: 8px;
 }
