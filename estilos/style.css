@@ -39,7 +39,7 @@ main > article{
 
 a.origem{
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
     text-decoration: none;
     color: #6f6161;  
 }
