@@ -11,6 +11,8 @@ body, html{
     line-height: 1.7em;
     height: 100vh;
     background-color: #a69d85;
+    display: flex;
+    flex-direction: column;
 }
 header{
     display: flex;
